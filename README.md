@@ -20,3 +20,7 @@ Sou estudante de Física na **Faculdade Católica Paulista**, buscando aplicar o
 ---
 "Entender a geometria por trás dos dados é a chave para a próxima geração da IA."
 
+## 📄 Currículo
+[📥 Clique aqui para baixar meu currículo em PDF](./Sidmar_Pereira_Jesus_CV.pdf)
+
+
