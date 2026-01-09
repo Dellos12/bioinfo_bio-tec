@@ -2,6 +2,8 @@
 
 ![Open Source Love](badges.frapsoft.com)
 ![TensorFlow](img.shields.io)
+![Kaggle](img.shields.io)
+
 
 Este repositório é dedicado ao meu portfólio de estudos e projetos na intersecção entre **Física**, **Biotecnologia** e **Ciência de Dados**. 
 
